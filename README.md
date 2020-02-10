@@ -2,7 +2,7 @@
 
 ## Autor
 
-Héctor Henríquez Cabrera		Correo: <hector.henriquez101@alu.ulpgc.es>
+Héctor Henríquez Cabrera           Correo: <hector.henriquez101@alu.ulpgc.es>
 
 ## Introducción
 
