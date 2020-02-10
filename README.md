@@ -4,10 +4,6 @@
 
 Héctor Henríquez Cabrera		Correo: <hector.henriquez101@alu.ulpgc.es>
 
-## Índice
-
-[toc]
-
 ## Introducción
 
 En esta primera práctica se ha compuesto una aplicación mediante **processing 3** un juego muy similar al clásico Pong. Es un juego de dos jugadores, los cuales deben intentar llevar la pelota al final del campo del rival mediante el rebote de la pelota ocasionado por la pala que se controla. En la partida se puede controlar la dirección de la bola mediante el movimiento que se haga para golpear la pelota, esto quiere decir que si impulsas la raqueta con fuerza hacía arriba la bola tomará esa trayectoria en el eje y, en el eje x aumentará la velocidad poco a poco a medida de que vaya rebotando en las palas de los jugadores, con lo que añade un poco más de rapidez los juegos, ya que cuanta más velocidad adquiera, más habilidad requiere devolver la pelota al rival.
@@ -16,7 +12,7 @@ En esta primera práctica se ha compuesto una aplicación mediante **processing 
 
 ## Demo
 
-![](C:\Users\Hector\Desktop\pong\demo.gif)
+![](demo.gif)
 
 En la demo se puede observar el menú principal, junto a una partida entre dos jugadores. En dicha partida se puede observar la trayectoria de la bola frente al comportamiento de las palas de los jugadores.
 
