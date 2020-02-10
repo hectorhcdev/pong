@@ -2,7 +2,11 @@
 
 ## Autor
 
-Héctor Henríquez Cabrera           Correo: <hector.henriquez101@alu.ulpgc.es>
+Héctor Henríquez Cabrera
+
+Correo: <hector.henriquez101@alu.ulpgc.es>
+
+Asignatura: Creando Interfaces de Usuario (CIU)
 
 ## Introducción
 
