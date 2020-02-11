@@ -1,5 +1,5 @@
 import processing.sound.*;
-import gifAnimation.*;
+//import gifAnimation.*;
 //GifMaker fichero;
 int count;
 int px,py,vy,vx,jx,jy,jx2,jy2,vy2plus,vy2minus,vy1plus,vy1minus,score1,score2;
