@@ -1,15 +1,23 @@
 import processing.sound.*;
+import gifAnimation.*;
+//GifMaker fichero;
+int count;
 int px,py,vy,vx,jx,jy,jx2,jy2,vy2plus,vy2minus,vy1plus,vy1minus,score1,score2;
 boolean menu;
 boolean [] keys;
 SoundFile sonido,sonidoGoal;
 boolean left=true;
 void setup(){
+  //count=0;
+  
   size(750,500);
   stroke(255);
   fill(0);
   textSize(30);
   strokeWeight(2);
+  //fichero= new GifMaker(this,"demo.gif");
+  //fichero.setRepeat(0);
+  
   px=width/2;
   py=height/2;
   vx= int(random(-4,4));
@@ -156,6 +164,12 @@ void draw(){
     text(score2,width*3/4,30);
     fill(0);
   }
+  //count++;
+  //if(count==5){
+  //  count=0;
+  //  fichero.addFrame();
+    
+  //}
 }
 
 void keyPressed(){
@@ -177,6 +191,9 @@ void keyPressed(){
     if(keyCode== ENTER){
       menu=!menu;
     }
+    //if(key=='p'){
+    //  fichero.finish();
+    //}
 }
 
 void keyReleased(){

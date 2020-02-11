@@ -24,7 +24,7 @@ En la demo se puede observar el menú principal, junto a una partida entre dos j
 
 ### Librerías
 
-Para la implementación de este juego se ha usado solo la librería **Processing sound** debido a que era necesario para la inclusión de los sonidos de la aplicación, a su vez no se ha incluido la librería **GifAnimation**, ya que solo iba a ser usado para la inclusión del gif que serviría de demo, por lo que cuando se fuese a replicar en otro sistema este sería totalmente inútil.
+Para la implementación de este juego se ha usado solo la librería **Processing sound** debido a que era necesario para la inclusión de los sonidos de la aplicación, a su vez se ha incluido la librería **GifAnimation**,  aunque solo iba a ser usado para la inclusión del gif, que serviría de demo, pero a la hora de probar la aplicación no es necesario tenerlo instalado debido a que no ejecuta nada actualmente (en caso de querer generar un gif nuevo descomentar las líneas de esta librería) .
 
 ### Diseño
 
